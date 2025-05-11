@@ -1,8 +1,8 @@
--Equipo 8 
--2090466
--Leguizamon
+- Equipo 8 
+- 2090466
+- Leguizamon
 - Nahuel
 - TP0 Hola Mundo
--GCC
--Version 9.2.0
--C2x
+- GCC
+- Version 9.2.0
+- C2x
